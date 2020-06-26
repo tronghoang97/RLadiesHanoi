@@ -1,9 +1,12 @@
 ---
 # Display name
-title: R Ladies Hanoi
+title: R-Ladies Hanoi
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+R-LADIES LÀ TỔ CHỨC TRÊN TOÀN THẾ GIỚI VỚI NHIỆM VỤ LÀ ĐỂ THÚC ĐẨY SỰ ĐA DẠNG GIỚI TRONG CỘNG ĐỒNG R.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Là một sáng kiến đa dạng, sứ mệnh của R-Ladies là đạt được sự đại diện tương xứng bằng cách khuyến khích, truyền cảm hứng và trao quyền cho các thành viên cộng đồng R. Do đó, trọng tâm chính của R-Ladies, là hỗ trợ những người đam mê R mọi giới tính để đạt được tiềm năng lập trình của họ, bằng cách xây dựng một mạng lưới toàn cầu hợp tác giữa các nhà lãnh đạo, cố vấn, người học và nhà phát triển để tạo điều kiện cho tiến bộ cá nhân và tập thể trên toàn thế giới.
+R-Ladies đã phát triển tới 138 buổi conference tại 44 quốc gia và 39000 thành viên.
+
+https://www.meetup.com/rladies-ha-noi
