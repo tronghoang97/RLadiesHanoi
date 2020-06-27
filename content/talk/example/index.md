@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Webinar Đầu Tiên Của R-Ladies Hà Nội
 event: Academic Theme Conference
 event_url: https://example.org
 
@@ -12,16 +12,16 @@ address:
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: Buổi conference bao gồm các bài chia sẻ của các speaker và phiên hỏi đáp. Chương trình tổ chức bởi Data Analysis School cùng hợp tác với R-Ladies Global.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-07-012T09:00:00Z"
+date_end: "2020-07-012T12:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-06-26T00:00:00Z"
 
 authors: []
 tags: []
@@ -34,10 +34,6 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
