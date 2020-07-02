@@ -11,7 +11,7 @@ abstract: "R-Ladies Hanoi Conference 2020 tổ chức bởi Data Analysis School
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-07-12T09:00:00Z"
-date_end: "2020-12-01T11:00:00Z"
+date_end: "2020-07-12T11:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
