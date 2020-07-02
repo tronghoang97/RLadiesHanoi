@@ -8,7 +8,7 @@ location: Zoom
 
 summary: Buổi conference bao gồm các bài chia sẻ của các speakers và phiên hỏi đáp
 abstract: "R-Ladies Hanoi Conference 2020 tổ chức bởi Data Analysis School, bao gồm các bài chia sẻ về phân tích dữ liệu, làm việc với mô hình, visualizing, estimating với R và phiên trao đổi, hỏi đáp.
-SPEAKER
+\nSPEAKER
 Nguyễn Minh Nguyệt, Assistant Professor, Khoa Toán và Thống Kê, Youngstown State University
 - 2014 Tiến sỹ ngành Toán Tài Chính, Florida State University
 - 2011 Thạc sỹ ngành Toán Tài Chính, Florida State University
