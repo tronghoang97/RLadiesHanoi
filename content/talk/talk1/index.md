@@ -57,6 +57,6 @@ Ngôn ngữ: Tiếng Việt
 JOIN A ZOOM MEETING
 - Đăng ký thông tin qua link để đặt câu hỏi và join Zoom
 https://bit.ly/R-LadiesHanoiConference2020
-- Các bạn cài đặt phần mềm Zoom (zoom.us) và click vào link join nhận qua email đăng ký để tham gia.
+- Các bạn cài đặt phần mềm Zoom (www.zoom.us) và click vào link join nhận qua email đăng ký để tham gia.
 
 Hotline: 0335234140 (Mr Nam)
