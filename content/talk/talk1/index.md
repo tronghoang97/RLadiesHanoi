@@ -48,8 +48,8 @@ SPEAKER
 - 2015 - nay: President for USF Student Chapter, Institute of Transportation Engineers, US  
 
 AGENDA  
-9:00 - 9:40 Sử dụng R cho phân tích dữ liệu & Mô hình toán - Nguyễn Minh Nguyệt, Assistant Professor, Youngstown State University  
-9:40 - 10:20 Trực quan dữ liệu và mô hình dự báo trong công nghiệp với R - Lương Đoàn Thu Trang, PhD Candidate, University of South Florida  
+9:00 - 9:40 Sử dụng R cho phân tích dữ liệu & Mô hình toán - Nguyễn Minh Nguyệt  
+9:40 - 10:20 Trực quan dữ liệu và mô hình dự báo trong công nghiệp với R - Lương Đoàn Thu Trang  
 10:20 - 11:00 Hỏi đáp
 
 Ngôn ngữ: Tiếng Việt  
